@@ -111,7 +111,7 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="form-group">
-                      <label>Follow Up Status: <span class="text-danger">*</span></label>
+                      <label>Follow Up Statusws: <span class="text-danger">*</span></label>
                       <input type="hidden" name="TrackStatus" value="Call">
                       <select data-placeholder="Select Status" class="select required"  id="TrackStatus" name="TrackStatus" disabled>
                         <option value="Call">Call</option>
